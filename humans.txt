@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Arjun Srinivasan arjun@ecw.com @arjunks
 
 # THANKS
 
