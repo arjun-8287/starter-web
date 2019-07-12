@@ -9,4 +9,8 @@ Adding Purpose
 
 ## How to Contribute
 
+Contributing to GIT repository
+
 ## Deployment
+
+Deployment details
