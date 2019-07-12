@@ -18,4 +18,4 @@ Deployment details
 
 ## Copyright
 
-Added copy right section
+Added copy right section. all Rights reserved
