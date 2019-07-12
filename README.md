@@ -14,3 +14,7 @@ Contributing to GIT repository
 ## Deployment
 
 Deployment details
+
+## Copyright
+
+Added copy right section
