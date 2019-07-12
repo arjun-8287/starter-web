@@ -9,7 +9,8 @@ Adding Purpose
 
 ## How to Contribute
 
-Contributing to GIT repository
+Contributing to GIT repository.
+Please fork this repository and issue pull request.
 
 ## Deployment
 
